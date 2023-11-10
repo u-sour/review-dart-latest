@@ -13,24 +13,24 @@ void main() {
 
   // switch statement
   int score = 100;
-  switch (score) {
-    case >= 100:
-      print("Grade A");
-      break;
-    case >= 85:
-      print("Grade B");
-      break;
-    case >= 75:
-      print("Grade C");
-      break;
-    case >= 70:
-      print("Grade D");
-      break;
-    case >= 60:
-      print("Grade E");
-      break;
-    default:
-      print("Grade F");
-      break;
-  }
+  // switch (score) {
+  //   case >= 100:
+  //     print("Grade A");
+  //     break;
+  //   case >= 85:
+  //     print("Grade B");
+  //     break;
+  //   case >= 75:
+  //     print("Grade C");
+  //     break;
+  //   case >= 70:
+  //     print("Grade D");
+  //     break;
+  //   case >= 60:
+  //     print("Grade E");
+  //     break;
+  //   default:
+  //     print("Grade F");
+  //     break;
+  // }
 }
